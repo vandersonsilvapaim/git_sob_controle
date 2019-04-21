@@ -1,2 +1,2 @@
-# git_sobre_controle
-Git Sobre Controle
+# git_sob_controle
+Git Sob Controle
